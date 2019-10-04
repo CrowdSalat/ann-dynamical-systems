@@ -32,5 +32,5 @@ So if not installed, install pip3 and virtualenv:
 To create virtualenv and install jupyter execute the following commands in the project folder:
 
 1. create virtualenv:   ``virtualenv env``
-2. Activate it with:    ``source env/bin/activate``
-3. Install Jupyter:     ``pip3 install jupyter``
+2. activate it with:    ``source env/bin/activate``
+3. install Jupyter:     ``pip3 install jupyter``
